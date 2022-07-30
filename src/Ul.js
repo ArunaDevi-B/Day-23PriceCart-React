@@ -1,6 +1,5 @@
 import React from "react";
 
-
 const Ul = () => {
   return (
     <section className="pricing py-5">
